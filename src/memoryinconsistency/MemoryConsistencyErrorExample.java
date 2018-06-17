@@ -1,8 +1,10 @@
+//source: https://www.callicoder.com/java-concurrency-issues-and-thread-synchronization/
+
 package memoryinconsistency;
 
 public class MemoryConsistencyErrorExample {
 
-    private static boolean sayHello = false;
+    private static volatile boolean sayHello = false;
 
     public static void main(String[] args) throws InterruptedException {
 

@@ -1,7 +1,6 @@
 package threadinterference0;
 
 //source: https://www.javacodex.com/Threads-and-Processes/Thread-Interference-Example
-
 //Three threads incrementing and decrementing many 1000's of times (at the same time) and in the end the count should be zero.
 
 public class ThreadInterference {

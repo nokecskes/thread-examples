@@ -1,3 +1,5 @@
+//exercise of: https://docs.oracle.com/javase/tutorial/essential/concurrency/QandE/questions.html
+
 package memoryinconsistency;
 
 public class BadThreads {
