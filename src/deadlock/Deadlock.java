@@ -1,3 +1,4 @@
+//source : https://docs.oracle.com/javase/tutorial/essential/concurrency/deadlock.html
 package deadlock;
 
 public class Deadlock {

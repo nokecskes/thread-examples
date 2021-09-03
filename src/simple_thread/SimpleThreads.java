@@ -1,3 +1,5 @@
+//source: https://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html
+
 package simple_thread;
 
 public class SimpleThreads {

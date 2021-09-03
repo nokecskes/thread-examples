@@ -1,3 +1,4 @@
+//source: https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html
 package threadinterference_solved;
 
 
